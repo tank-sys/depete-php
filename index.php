@@ -3,6 +3,9 @@
           <input type="text" name="q" >
           <button type="submit" name="submit">Search</button>
 </form>
+<form action="https://infopemilu.kpu.go.id/Pemilu/Cari_nik">
+    <input type="submit" value="Go to Sipol" />
+</form>
 
 <?php
 ///////////////
